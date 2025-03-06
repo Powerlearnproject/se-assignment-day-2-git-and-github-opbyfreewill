@@ -18,6 +18,7 @@ Version control is a system that records changes to files (typically code) over 
 - Conflict Resolution: Addressing discrepancies when changes in different branches overlap.
 
 Why GitHub is Popular for Managing Code Versions:
+
 GitHub is a widely used platform for version control, built on top of Git. Its popularity stems from:
 
 - User-Friendly Interface: Simplifies complex Git operations with a graphical interface.
